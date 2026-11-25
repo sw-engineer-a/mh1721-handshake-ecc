@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MH1721 ECC Handshake</string>
+    <string name="phone">Try on this phone</string>
+    <string name="board">Handshake with MH1721</string>
+</resources>
